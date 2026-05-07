@@ -1,0 +1,24 @@
+open terminal 
+write command in terminal 
+    npx weborbit
+    then write your project name and enter
+    then choose your framework reactjs and enter
+    then choose styling css / tailwind and enter
+    then choose you want server folder in project press n
+
+
+after that see your project has been created in your folder
+
+after that write command in terminal again
+cd your project 
+npm install
+npm run dev
+then your project run on local server 
+
+
+after that clear your app.jsx file and write 
+a function with filename make sure your file name is started with capital letter
+
+
+
+
