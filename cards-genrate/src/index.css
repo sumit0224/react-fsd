@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.hr{
+    flex-shrink: 0;
+}
